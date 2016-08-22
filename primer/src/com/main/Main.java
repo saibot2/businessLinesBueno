@@ -6,7 +6,7 @@ public class Main {
 		
 		Saludo saludo = new Saludo();
 		saludo.saludar();
-		
+		/*good bye*/
 	}
 
 }
